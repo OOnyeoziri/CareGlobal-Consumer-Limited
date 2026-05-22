@@ -1,0 +1,101 @@
+CustomerID,FirstName,LastName,Email,City,JoinDate
+1,Anna,Mcguire,fernandezjohn@gomez.com,Kano,7/11/2022
+2,Bryan,Humphrey,yoderpaul@wilson.com,Kano,8/11/2023
+3,Scott,Pierce,peterskevin@yahoo.com,Abuja,9/1/2023
+4,Scott,Hendrix,trandean@gmail.com,Ibadan,1/12/2021
+5,Tyler,Glover,hallsarah@sanchez.com,Abuja,6/18/2022
+6,Lynn,Rojas,nancywilliams@atkinson.com,Port Harcourt,11/19/2022
+7,Christopher,Reese,willie17@hotmail.com,Abuja,4/16/2022
+8,Rebecca,Williams,zjohnson@yahoo.com,Ibadan,8/10/2021
+9,Charles,Hill,pklein@hotmail.com,Port Harcourt,7/18/2021
+10,Ashley,Bryant,brooksdennis@gmail.com,Lagos,4/14/2021
+11,Thomas,Shea,sparks@taylor.com,Abuja,12/19/2024
+12,Victoria,Bennett,josephthompson@hunt-ryan.net,Abuja,8/26/2023
+13,Alicia,Jackson,xalvarez@hall.biz,Kano,10/20/2020
+14,Caitlin,Vasquez,jfrench@yahoo.com,Port Harcourt,11/28/2022
+15,Billy,Gomez,deandanny@huff.biz,Abuja,8/18/2022
+16,Brian,Thomas,foleypatrick@yahoo.com,Lagos,1/19/2024
+17,Shelby,Simon,vincent11@yahoo.com,Lagos,12/28/2021
+18,Brittney,Williams,matthew81@gmail.com,Port Harcourt,10/23/2023
+19,Andres,Grimes,watsondonna@kelly.com,Lagos,6/1/2020
+20,Mark,Cannon,wilsonjennifer@mayer.com,Port Harcourt,12/12/2023
+21,Ryan,Kaiser,breyes@stanton.com,Kano,4/28/2022
+22,Alexandra,Hansen,larryholloway@gmail.com,Port Harcourt,4/14/2025
+23,Claire,James,sabrinaweber@mcdonald.com,Lagos,2/8/2021
+24,Angela,Patterson,fsherman@gmail.com,Ibadan,9/30/2020
+25,Savannah,Wright,acruz@rodriguez-woods.com,Ibadan,12/17/2022
+26,Aaron,Bentley,kayla05@perez.com,Lagos,6/23/2023
+27,Nicholas,Ayala,kevin95@hotmail.com,Ibadan,5/13/2023
+28,Troy,Stanton,qwyatt@robertson.com,Kano,10/14/2022
+29,Andrew,Sanchez,trice@yahoo.com,Ibadan,8/13/2021
+30,Brian,Griffin,lisa19@kerr-stewart.net,Port Harcourt,12/14/2022
+31,Crystal,Holloway,sdavis@kemp-johnson.com,Kano,8/24/2020
+32,Clarence,Drake,anthonyserrano@yahoo.com,Ibadan,11/30/2024
+33,Ruth,Flores,erichall@hotmail.com,Lagos,3/4/2024
+34,Michelle,Smith,robinsonkevin@hotmail.com,Lagos,8/13/2023
+35,Joel,Strong,ellislinda@hotmail.com,Lagos,3/17/2022
+36,Kelli,Rios,michaelanderson@hotmail.com,Abuja,4/1/2025
+37,Adam,Lane,wilsonandrea@yahoo.com,Lagos,9/14/2024
+38,William,Aguilar,cameronandrew@gmail.com,Port Harcourt,10/5/2023
+39,Melissa,Coleman,phillipskatie@gmail.com,Port Harcourt,1/20/2022
+40,Thomas,Rogers,davismonica@contreras.com,Port Harcourt,9/7/2024
+41,Jeremiah,Rodriguez,brittneyaguilar@benitez.org,Kano,10/15/2020
+42,Jonathan,Johnson,curtis39@hotmail.com,Kano,1/26/2022
+43,Billy,Adams,adamswilliam@gmail.com,Abuja,5/16/2022
+44,Denise,Jackson,smithdawn@gmail.com,Ibadan,6/23/2022
+45,Bonnie,Mason,boydjeffrey@hall.info,Kano,12/24/2023
+46,James,Rodriguez,qmullen@hotmail.com,Port Harcourt,5/1/2021
+47,Rachel,Ford,yjohnson@gmail.com,Ibadan,3/18/2024
+48,Justin,Cordova,brittanyhernandez@hotmail.com,Port Harcourt,12/11/2021
+49,Maria,Barker,mistynelson@gmail.com,Lagos,5/10/2021
+50,Justin,Jimenez,willie96@horton-thompson.com,Port Harcourt,12/19/2022
+51,Julia,Jones,sanchezmichelle@yahoo.com,Lagos,10/23/2024
+52,Joseph,Wilson,josephcooper@snyder.net,Lagos,3/30/2022
+53,Amber,Moore,oliviamoore@hotmail.com,Abuja,5/26/2023
+54,Jessica,Chavez,lynnbrown@weaver.biz,Lagos,11/15/2020
+55,Bradley,Schaefer,lauramartin@allen-wilkerson.com,Abuja,12/14/2020
+56,Jason,Maldonado,dianewheeler@reynolds.com,Ibadan,9/30/2022
+57,Jennifer,Grimes,murphyrachel@orozco.com,Kano,7/8/2024
+58,Cindy,Lyons,kanesean@yahoo.com,Kano,4/16/2023
+59,Gabrielle,Stewart,jason30@hotmail.com,Abuja,5/6/2023
+60,Glenn,Adams,katie34@perry-ramirez.com,Lagos,6/27/2024
+61,Deborah,Castro,nelsonmelinda@hotmail.com,Abuja,8/5/2024
+62,Kristen,Meyer,williamsdustin@gmail.com,Port Harcourt,5/6/2022
+63,Jessica,Austin,mayogabriella@campbell-hernandez.com,Abuja,2/10/2021
+64,William,Foster,ybrooks@gmail.com,Lagos,9/26/2020
+65,Michael,Flores,andres29@lawrence-alexander.com,Port Harcourt,10/2/2020
+66,Allison,Simpson,donnabowen@hotmail.com,Abuja,5/2/2021
+67,Sarah,Tran,rmiller@gentry-bautista.com,Port Harcourt,10/12/2024
+68,Alison,Bell,turnerheather@gilbert-edwards.org,Kano,9/5/2020
+69,Christina,Taylor,lscott@yahoo.com,Abuja,8/25/2020
+70,Mark,Acosta,jfox@frederick.biz,Lagos,9/25/2023
+71,Sandra,Morgan,hughesshawn@hotmail.com,Ibadan,11/18/2020
+72,Sharon,Campos,tanyarivera@yahoo.com,Kano,4/9/2024
+73,Joseph,Martin,ibrown@meyer.net,Kano,7/15/2022
+74,Heather,Boyle,heather17@maynard.com,Ibadan,11/3/2020
+75,Holly,Jenkins,rmercado@black.org,Abuja,9/27/2023
+76,Jennifer,Andrews,wsmith@morris-johnson.com,Abuja,8/31/2021
+77,Stephanie,Fitzgerald,davisgabriel@hotmail.com,Lagos,6/9/2021
+78,Brittney,Lewis,rachel62@anderson.net,Kano,9/29/2022
+79,Adam,Martin,phoover@hotmail.com,Port Harcourt,11/14/2021
+80,Jessica,Fuller,leah02@jackson.com,Abuja,4/14/2022
+81,Justin,Velasquez,connercatherine@keller-schneider.com,Kano,2/29/2024
+82,Justin,Jenkins,knightmichael@gmail.com,Port Harcourt,3/2/2021
+83,Katherine,Gonzalez,ryanmarsh@sampson.info,Ibadan,7/24/2021
+84,Amy,Pearson,bpierce@tyler.com,Kano,7/8/2020
+85,Isabel,Wilson,jennifer87@yahoo.com,Kano,11/20/2024
+86,Dalton,Zamora,robertpeck@yahoo.com,Abuja,11/26/2023
+87,Philip,Parks,samuel30@williams.com,Abuja,2/4/2022
+88,Jay,Melton,donnawilson@yahoo.com,Lagos,11/24/2020
+89,David,Solomon,fowlersusan@yahoo.com,Kano,9/18/2020
+90,Brandon,Conrad,wendy05@reyes.net,Ibadan,1/25/2021
+91,John,Sutton,johnsoncynthia@hotmail.com,Ibadan,8/22/2022
+92,Kelli,Frank,pbrown@leach.net,Lagos,11/21/2023
+93,Brandon,Pena,qedwards@yahoo.com,Ibadan,3/3/2021
+94,Cassandra,Tucker,victorparker@gmail.com,Abuja,3/18/2022
+95,Eric,Luna,raymondwilliams@gmail.com,Ibadan,3/4/2022
+96,David,White,jillmurphy@rodriguez-myers.info,Abuja,7/13/2020
+97,Dalton,Rodriguez,tinahicks@hotmail.com,Ibadan,1/3/2024
+98,Timothy,Parker,wkirk@hotmail.com,Lagos,6/4/2022
+99,Angela,Davis,jennifer14@hernandez-robinson.com,Lagos,4/5/2024
+100,Madison,Jones,pamelahardin@hotmail.com,Lagos,1/8/2023
